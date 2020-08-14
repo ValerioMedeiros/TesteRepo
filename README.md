@@ -1,2 +1,2 @@
 # TesteRepo
-Repositório de teste (exemplo didático)
+Este repositório é um apenas um exemplo didático.
